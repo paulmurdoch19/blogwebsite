@@ -21,3 +21,4 @@ def test():
 
 if __name__ == '__main__':
     app.run(debug=True)
+    print("the app is running")
